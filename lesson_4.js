@@ -2,7 +2,7 @@
 let son = "10.5";
 console.log(parseInt(son));
 
-______________________________________;
+
 // methods abs
 
 function abs(son) {
