@@ -10,8 +10,8 @@ function abs(son) {
   son < 0 && console.log(son * -1);
 }
 
-abs(-10);
 abs(10);
+abs(-10);
 
 // math round
 function round(son) {
@@ -19,3 +19,4 @@ function round(son) {
   son < parseInt(son) + 0.5 && console.log(parseInt(son));
 }
 round(10.3);
+
