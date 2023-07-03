@@ -22,3 +22,4 @@
 // let toJoin =toReverse.join('');
 // console.log(toJoin);
 //  T. > NIARBBEW chiqadi
+let arr = [];
